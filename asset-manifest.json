@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/MaheshPortfolio/static/js/main.fcbd31d4.js",
+    "static/js/453.0f7ffb2f.chunk.js": "/MaheshPortfolio/static/js/453.0f7ffb2f.chunk.js",
+    "index.html": "/MaheshPortfolio/index.html",
+    "main.fcbd31d4.js.map": "/MaheshPortfolio/static/js/main.fcbd31d4.js.map",
+    "453.0f7ffb2f.chunk.js.map": "/MaheshPortfolio/static/js/453.0f7ffb2f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.fcbd31d4.js"
+  ]
+}
